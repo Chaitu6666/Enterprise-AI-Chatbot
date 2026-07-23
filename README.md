@@ -283,13 +283,13 @@ Give this repository a ⭐ on GitHub.
 
 # 👨‍💻 Author
 
-**Your Name**
+**Chaithanya Kumar Reddy**
 
 Java Backend Developer
 
-LinkedIn: https://linkedin.com/in/your-profile
+LinkedIn: https://www.linkedin.com/in/chaitu6
 
-GitHub: https://github.com/your-username
+GitHub: https://github.com/Chaitu6666
 
 ---
 
